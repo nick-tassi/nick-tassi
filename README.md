@@ -1,12 +1,17 @@
 ## Hi there 👋
 
+My name is Nickolas and I'm starting to learn programming. My goal is to be a skilled professional in Python, SQL, VBA, and SAS. Also, I'm learning how to use Github.
+
+ 🌱 I’m currently learning Python, VBA, SAS, and SQL
+ 
+ 🤔 I’m looking for help with good materials and how to practice programming
 <!--
 **nick-tassi/nick-tassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, VBA, SAS, and SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
